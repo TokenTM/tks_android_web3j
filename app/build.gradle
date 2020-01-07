@@ -24,4 +24,5 @@ dependencies {
     implementation project(path: ':abi')
     implementation project(path: ':compat')
     implementation project(path: ':utils')
+    //implementation 'com.github.TokenTM.tks_android_web3j:abi:1.0.0'
 }

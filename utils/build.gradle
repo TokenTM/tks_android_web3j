@@ -26,7 +26,7 @@ repositories {
 }
 dependencies {
     api fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
-    implementation project(":compat")
-    implementation "org.bouncycastle:bcprov-jdk15on:1.60"
+    api project(":compat")
+    api "org.bouncycastle:bcprov-jdk15on:1.60"
 }
 

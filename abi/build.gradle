@@ -26,7 +26,7 @@ repositories {
 }
 dependencies {
     api fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
-    implementation project(path: ':compat')
-    implementation project(path: ':utils')
+    api project(path: ':compat')
+    api project(path: ':utils')
 }
 
