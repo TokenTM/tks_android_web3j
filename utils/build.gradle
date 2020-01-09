@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
 android {
     compileSdkVersion rootProject.ext.android.compileSdkVersion
 
@@ -21,7 +20,7 @@ repositories {
 }
 dependencies {
     api fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
-    api project(":compat")
+    implementation project(":compat")
     api "org.bouncycastle:bcprov-jdk15on:1.60"
 }
 
