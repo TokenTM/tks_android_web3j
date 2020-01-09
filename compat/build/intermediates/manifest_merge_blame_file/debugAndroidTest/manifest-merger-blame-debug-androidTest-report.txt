@@ -3,31 +3,31 @@
 3    package="org.web3j.compat.test" >
 4
 5    <uses-sdk
-5-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:5:5-74
+5-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:5:15-41
+6-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:5:15-41
 7        android:targetSdkVersion="21" />
-7-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:5:42-71
+7-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:11:5-15:71
+9-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:11:5-15:71
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:11:22-75
+10-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:11:22-75
 11        android:functionalTest="false"
-11-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:14:22-52
+11-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:13:22-53
+12-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:13:22-53
 13        android:label="Tests for org.web3j.compat.test"
-13-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:15:22-69
+13-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:15:22-69
 14        android:targetPackage="org.web3j.compat.test" />
-14-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:12:22-67
+14-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:12:22-67
 15
 16    <application android:debuggable="true" >
-16-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:7:5-9:19
-16-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:7:18-43
+16-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:7:5-9:19
+16-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:7:18-43
 17        <uses-library android:name="android.test.runner" />
-17-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:8:9-60
-17-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3459531486213204480.xml:8:23-57
+17-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:8:9-60
+17-->/Users/wuyouxuan/Documents/android_studio/work_space/tks_android_web3j/compat/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger986030608778018725.xml:8:23-57
 18    </application>
 19
 20</manifest>
