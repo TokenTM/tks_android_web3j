@@ -36,6 +36,10 @@ public class Sm2CryptoUtils {
         return Sm_crypto.c_VerifySignature(var0, var1, var2);
     }
 
+    public static String c_AddrFromPub(String publicKey) {
+        return Sm_crypto.c_AddrFromPub(publicKey);
+    }
+
     public static String clearPrefix(String data) {
         return Numeric.cleanHexPrefix(data);
     }
